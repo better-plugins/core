@@ -1,6 +1,6 @@
 {
-    "name": "Better.{ShortProductName}.Editor",
-    "rootNamespace": "Better.{ShortProductName}.EditorAddons",
+    "name": "Better.Core.Editor",
+    "rootNamespace": "Better.Core.EditorAddons",
     "references": [],
     "includePlatforms": [
         "Editor"

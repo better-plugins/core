@@ -1,6 +1,6 @@
 {
-    "name": "Better.{ShortProductName}.Runtime",
-    "rootNamespace": "Better.{ShortProductName}.Runtime",
+    "name": "Better.Core.Runtime",
+    "rootNamespace": "Better.Core.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
