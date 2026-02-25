@@ -1,4 +1,4 @@
-# Better {Short Product Name}
+# Better Core
 
 [![openupm](https://img.shields.io/npm/v/com.betterplugins.core?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.betterplugins.core/)
 
