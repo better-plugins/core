@@ -1,12 +1,12 @@
 {
-  "name": "com.better.core",
+  "name": "com.betterplugins.core",
   "displayName": "Better Core",
   "author": {
     "name": "Better Plugins",
     "url": "https://github.com/better-plugins"
   },
   "license": "MIT",
-  "licensesUrl": "https://github.com/better-plugins/better-core/blob/main/LICENSE",
+  "licensesUrl": "https://github.com/better-plugins/core/blob/main/LICENSE",
   "description": "Base package for Better Plugins",
   "keywords": [
     "better",
@@ -14,6 +14,6 @@
   ],
   "unity": "6000",
   "version": "<release-placeholder>",
-  "documentationUrl": "https://github.com/better-plugins/better-core/blob/main/README.md",
+  "documentationUrl": "https://github.com/better-plugins/core/blob/main/README.md",
   "changelogUrl": "<release-placeholder>"
 }
